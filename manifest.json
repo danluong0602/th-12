@@ -1,6 +1,6 @@
 {
-  "name": "EngJoy",
-  "short_name": "EngJoy",
+  "name": "Tiếng Anh",
+  "short_name": "English",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -12,7 +12,7 @@
       "type": "image/png"
     },
     {
-      "src": "logo 22062026.png",
+      "src": "logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
